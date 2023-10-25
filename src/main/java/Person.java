@@ -1,6 +1,5 @@
-public class Person {
+public class Person extends Animal {
     String fName, lName;
-    byte age;
     int num;
     static int count = 0;
     public Person() {
